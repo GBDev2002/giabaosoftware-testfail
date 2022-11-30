@@ -1,0 +1,12 @@
+.mask, .mask2 {
+    top: 0;
+    left: 0
+}.boxMask, span {
+    display: inline-block
+}
+body {
+    background-color: #dc9999
+}.abm {
+    color: #001a28;font-size:28pt;}*{font-family:Roboto,sans-serif}.boxMask{position:relative;overflow:hidden}.mask,.mask1,.mask2,.maskImage{position:absolute;width:100%;height:100%}.mask1{background-color:#000a0f
+}.maskImage {
+    background-color: #ffffff}.mask2{margin-left:60%}.avatar img{width:200px;border-radius:100%}.avatar{position:relative}.avatar_layer{position:absolute;width:100%;height:100%;top:0;left:0}.avatar_layer svg{width:200px}span{white-space:pre}.test{opacity: 0;}
